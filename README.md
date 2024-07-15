@@ -1,2 +1,2 @@
 # temperature-converter
-conversion of temperature
+A temperature converter using JavaScript is a web application that allows users to convert temperatures between different units such as Celsius and Fahrenheit. The interface typically includes input fields for the user to enter the temperature value and select the desired conversion units from dropdown menus. JavaScript functions handle the conversion calculations based on the input values and selected units, using the appropriate formulas. The converted temperature is then displayed on the page in real-time. This tool demonstrates practical applications of JavaScript in performing mathematical operations and enhancing the interactivity and functionality of web pages.
